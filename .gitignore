@@ -1,1 +1,5 @@
 /.idea
+.DS_Store
+*/src/main/java/datagen
+*/src/test/
+*.class
