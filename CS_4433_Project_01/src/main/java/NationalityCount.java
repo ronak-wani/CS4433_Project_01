@@ -51,5 +51,3 @@ public class NationalityCount {
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 }
-
-
