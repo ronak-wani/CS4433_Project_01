@@ -4,5 +4,5 @@
 */src/test/
 *.class
 output
-
-
+*.jar
+*.MF
