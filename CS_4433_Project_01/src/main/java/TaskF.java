@@ -68,7 +68,6 @@ public class TaskF {
             Set<String> accessedPages = new HashSet<>();
             String personName = null;
 
-            // Process all values
             for (Text val : values) {
                 String[] parts = val.toString().split(",", 2);
                 if (parts[0].equals("F")) {
